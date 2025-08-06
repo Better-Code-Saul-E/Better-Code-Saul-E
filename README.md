@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Saul Enriquez 👋
 
-<!--
-**Better-Code-Saul-E/Better-Code-Saul-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Columbia College Chicago, passionate about software development, web and app creation, and IT support.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Currently studying Programming with a minor in Game Art  
+- Proficient in JavaScript, Python, C#, and Swift  
+- Experience with UI/UX design and iOS development  
+- Hands-on IT troubleshooting through internship and personal projects  
+- Enthusiastic about building software that makes an impact
+
+---
+
+## Skills & Tools
+
+**Languages:** JavaScript, Python, C#, Swift, HTML, CSS  
+**Frameworks & Tools:** .NET, WPF, Xcode, Visual Studio, VS Code  
+**Design:** Figma, Adobe Photoshop, Illustrator, Canva  
+**Version Control:** Git, GitHub  
+**Command Line:** PowerShell, Linux CLI
+
+---
+
+## Recent Projects
+
+- **Wild Card** — Console card games built with C#, emphasizing modular design  
+- **Weather App** — WPF desktop app showing real-time weather and forecasts  
+- iOS app development through an intensive internship program  
+
+---
+
+## Get In Touch
+
+- 🌐 [Personal Website](https://better-code-saul-e.github.io/Saul_Enriquez/)  
+- 💼 [LinkedIn](www.linkedin.com/in/saul-enriquez-chicago)  
+- 🐙 [GitHub](https://github.com/Better-Code-Saul-E)  
+- 📧 saul.enriquez2005@gmail.com  
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out.
